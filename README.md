@@ -17,7 +17,7 @@ Git操作:    [@黑马训练营Git操作](https://www.bilibili.com/video/BV1fK4y
 （4）前端技术主要掌握热门的Vue框架的使用。
 前端技术：  [@Vue框架学习](https://www.bilibili.com/video/av40455083)
 
-（5）进阶学习，掌握动态网页的开发技术。
+（5）进阶学习，学习JAVAEE，掌握动态网页的开发技术。
 动态网页   [@JavaEE动态网页](https://www.bilibili.com/video/av73840600)
 
 
