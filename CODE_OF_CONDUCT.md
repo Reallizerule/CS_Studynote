@@ -46,7 +46,7 @@
 
   ## 来源
 
-本行为标准改编自[参与者公约][主页]，版本 1.4
-可在此查阅：https://www.contributor-covenant.org/zh-cn/version/1/4/code-of-conduct.html
+  本行为标准改编自[参与者公约][主页]，版本 1.4
+  可在此查阅：https://www.contributor-covenant.org/zh-cn/version/1/4/code-of-conduct.html
 
-[主页]: https://www.contributor-covenant.org
+ 
