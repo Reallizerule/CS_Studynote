@@ -1,21 +1,24 @@
-# 计算机技能学习(开源特训营)
+## [CS_Studynote](https://github.com/Reallizerule/CS_Studynote)
 
- 此项目为学习项目,希望能通过项目系统学习编程语言，算法结构，软件开发等计算机相关知识。
- 针对不同阶段的学习，都提供了对应的学习视频，帮助同学们快速了解上手。
+### 成员
 
-以下的开发路线学习，语言以JAVA为主，没学习过JAVA的同学需要先系统学习JAVA基础知识。
-JAVA基础:   [@JAVA基础](https://www.bilibili.com/video/av80585971)
-
-Git为程序的版本控制工具，熟练使用Git可以减少很多工作量。
-Git操作:    [@黑马训练营Git操作](https://www.bilibili.com/video/BV1fK4y1b7XL?p=4)
-
-软件开发数据库也是必不可少的，Mysql是目前流行的关系型数据库。
-数据库：    [@Mysql基本操作](https://www.bilibili.com/video/av68811608)
-
-前端技术主要掌握热门的Vue框架的使用。
-前端技术：  [@Vue框架学习](https://www.bilibili.com/video/av40455083)
-
-进阶学习，掌握动态网页的开发技术。
-动态网页   [@JavaEE动态网页](https://www.bilibili.com/video/av73840600)
+[@Reallizerule](https://github.com/Reallizerule)
+[@Barbra0613](https://github.com/Barbra0613)
+[@caijiahong1cc](https://github.com/caijiahong1cc)
+[@pku-buyu](https://github.com/pku-buyu)
 
 
+### 文件状态检查
+
+![license](http://github.zhangqx.com/file-checker/github/Reallizerule/CS_Studynote?path=LICENSE)
+![readme](http://github.zhangqx.com/file-checker/github/Reallizerule/CS_Studynote?path=README.md)
+![contributing](http://github.zhangqx.com/file-checker/github/Reallizerule/CS_Studynote?path=CONTRIBUTING.md)
+![coc](http://github.zhangqx.com/file-checker/github/Reallizerule/CS_Studynote?path=Code_of_Conduct.md)
+![codestyle](http://github.zhangqx.com/file-checker/github/Reallizerule/CS_Studynote?path=contributions/codestyle.md)
+![pulltemplate](http://github.zhangqx.com/file-checker/github/Reallizerule/CS_Studynote?path=.github/PULL_REQUEST_TEMPLATE.md)
+### 项目数据统计
+
+![contributor](http://github.zhangqx.com/data/github/Reallizerule/CS_Studynote?type=contributor)
+![participant](http://github.zhangqx.com/data/github/Reallizerule/CS_Studynote?type=participant)
+![follower](http://github.zhangqx.com/data/github/Reallizerule/CS_Studynote?type=follower)
+![activity](http://github.zhangqx.com/data/github/Reallizerule/CS_Studynote?type=activity)
