@@ -5,7 +5,7 @@
 
 以下的开发路线学习：
 
-（1）语言以JAVA为主，没学习过JAVA的同学需要先系统学习JAVA基础知识。
+（1）编程语言以JAVA为主，没学习过JAVA的同学需要先系统学习JAVA基础知识。
 JAVA基础:   [@JAVA基础](https://www.bilibili.com/video/av80585971)
 
 （2）Git为程序的版本控制工具，熟练使用Git可以减少很多工作量。
@@ -14,10 +14,10 @@ Git操作:    [@黑马训练营Git操作](https://www.bilibili.com/video/BV1fK4y
 （3）软件开发数据库也是必不可少的，Mysql是目前流行的关系型数据库。
 数据库：    [@Mysql基本操作](https://www.bilibili.com/video/av68811608)
 
-（4）前端技术主要掌握热门的Vue框架的使用。
+（4）前端技术主要需要掌握热门的Vue框架的使用。
 前端技术：  [@Vue框架学习](https://www.bilibili.com/video/av40455083)
 
-（5）进阶学习，学习JAVAEE，掌握动态网页的开发技术。
+（5）进阶学习主要需要学习JAVAEE并且掌握动态网页的开发技术。
 动态网页   [@JavaEE动态网页](https://www.bilibili.com/video/av73840600)
 
 
