@@ -13,7 +13,7 @@
 ![license](http://github.zhangqx.com/file-checker/github/Reallizerule/CS_Studynote?path=LICENSE)
 ![readme](http://github.zhangqx.com/file-checker/github/Reallizerule/CS_Studynote?path=README.md)
 ![contributing](http://github.zhangqx.com/file-checker/github/Reallizerule/CS_Studynote?path=CONTRIBUTING.md)
-![coc](http://github.zhangqx.com/file-checker/github/Reallizerule/CS_Studynote?path=Code_of_Conduct.md)
+![coc](http://github.zhangqx.com/file-checker/github/Reallizerule/CS_Studynote?path=CODE_OF_CONDUCT.md)
 ![codestyle](http://github.zhangqx.com/file-checker/github/Reallizerule/CS_Studynote?path=contributions/codestyle.md)
 ![pulltemplate](http://github.zhangqx.com/file-checker/github/Reallizerule/CS_Studynote?path=.github/PULL_REQUEST_TEMPLATE.md)
 ### 项目数据统计
