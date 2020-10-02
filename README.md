@@ -14,7 +14,7 @@
 ![readme](http://github.zhangqx.com/file-checker/github/Reallizerule/CS_Studynote?path=README.md)
 ![contributing](http://github.zhangqx.com/file-checker/github/Reallizerule/CS_Studynote?path=CONTRIBUTING.md)
 ![coc](http://github.zhangqx.com/file-checker/github/Reallizerule/CS_Studynote?path=CODE_OF_CONDUCT.md)
-![codestyle](http://github.zhangqx.com/file-checker/github/Reallizerule/CS_Studynote?path=contributions/CODE_STYLE.md)
+![codestyle](http://github.zhangqx.com/file-checker/github/Reallizerule/CS_Studynote?path=CODE_STYLE.md)
 ![pulltemplate](http://github.zhangqx.com/file-checker/github/Reallizerule/CS_Studynote?path=.github/PULL_REQUEST_TEMPLATE.md)
 ### 项目数据统计
 
