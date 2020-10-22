@@ -1,5 +1,10 @@
 ## [CS_Studynote](https://github.com/Reallizerule/CS_Studynote)
 
+
+本项目旨在为各位计算机专业的同学提供日常学习与找工作、找实习时的一些知识点，包括leetcode、操作系统等常见面试知识。
+
+https://leetcode-cn.com/problemset/all/
+
 ### 成员
 
 [@Reallizerule](https://github.com/Reallizerule)
